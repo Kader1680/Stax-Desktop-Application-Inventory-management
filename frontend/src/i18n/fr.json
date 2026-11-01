@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "products": "Produits",
+    "pos": "Point de vente",
+    "inventory": "Inventaire",
+    "purchases": "Achats",
+    "customers": "Clients",
+    "suppliers": "Fournisseurs",
+    "reports": "Rapports"
+  },
+  "products": {
+    "title": "Produits",
+    "new": "Nouveau produit",
+    "name": "Nom",
+    "sku": "SKU",
+    "barcode": "Code-barres",
+    "category": "Catégorie",
+    "unit": "Unité",
+    "purchasePrice": "Prix d'achat",
+    "sellingPrice": "Prix de vente",
+    "stock": "Stock actuel",
+    "minStock": "Seuil minimum",
+    "unitPiece": "Pièce",
+    "unitKg": "Kilogramme",
+    "unitG": "Gramme",
+    "unitL": "Litre",
+    "search": "Rechercher un produit...",
+    "lowStock": "Stock faible",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  },
+  "errors": {
+    "duplicateSku": "Ce SKU existe déjà",
+    "duplicateBarcode": "Ce code-barres existe déjà",
+    "insufficientStock": "Stock insuffisant",
+    "notFound": "Introuvable",
+    "invalidInput": "Données invalides"
+  }
+}
